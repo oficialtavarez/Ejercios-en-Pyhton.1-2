@@ -5,8 +5,9 @@ Explora nuestro Repositorio de Ejercicios en Python, una recopilaci√≥n de desaf√
 
 
 
+<body>
     <img src="https://tutorias.co/wp-content/uploads/2014/07/intentosAciertoPython.jpg" alt="Imagen de Python">
-
+</body>
 
 
 
